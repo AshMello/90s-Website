@@ -1,0 +1,64 @@
+html {
+    background-image: url("images.jpg");
+    background-color: pink
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h1, ul {
+    color: white;
+    list-style-type: none;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    width: 600px;
+    margin: 0 auto;
+    background-color: pink;
+    padding: 0 0px 20px 15px;
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
+    font-size: 30;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+body.aboutme, p.aboutme, h1.aboutme, p.hobbies, p.family, h2.family,
+body.travels, p.travels, h2.travels {
+    color: white;
+    background-color: pink;
+    text-align: center;
+    letter-spacing: 1px;
+    line-height: 1;
+    font-size: 30;
+    width: 600px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    text-decoration: none;
+    padding: 0 0px 20px 15px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    
+}
+
+h1.aboutme {
+    font-size: 40px;
+    font-family: 'Josefin Slab', serif;
+}
+
+
+
+h2.family, h1.travels {
+    font-size: 50px;
+    color: white;
+    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+img {
+    float: right;
+    border-radius: 50%;
+
+
+}
+
